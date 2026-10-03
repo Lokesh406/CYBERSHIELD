@@ -1,0 +1,2 @@
+timestamp,protocol,source_ip,source_port,destination_ip,destination_port,message,sid,action
+2026-09-19 10:00:00,ICMP,ATTACKER_IP,,TARGET_IP,,ICMP ATTACK,SID,Blocked

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Local/editor files
+.vscode/
+
+# Generated model and report artifacts
+*.html
+*.csv~
